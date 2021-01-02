@@ -1,15 +1,25 @@
 {
   "name": "bootstrap-41",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
-    "bootstrap": "^4.5.3"
+    "bootstrap": "^4.5.3",
+    "bootstrap-icons": "^1.2.2",
+    "jquery": "^3.5.1"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salma96-hassan/bootstrap-day1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/salma96-hassan/bootstrap-day1/issues"
+  },
+  "homepage": "https://github.com/salma96-hassan/bootstrap-day1#readme",
+  "description": ""
 }
